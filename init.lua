@@ -7,7 +7,7 @@ local appShortcuts = {
   ["2"] = "Google Chrome",
   ["3"] = "Slack",
   ["4"] = "Notion",
-  ["5"] = "iTerm",  -- You can replace with iTerm if that's your default terminal
+  ["5"] = "iTerm", 
   ["6"] = "Visual Studio Code"
 }
 
@@ -17,3 +17,5 @@ for key, appName in pairs(appShortcuts) do
     hs.application.launchOrFocus(appName)
   end)
 end
+
+-- Reload Hammerspoon config after changes
