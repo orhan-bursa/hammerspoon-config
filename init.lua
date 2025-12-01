@@ -8,7 +8,7 @@ local appShortcuts = {
   ["3"] = "Slack",
   ["4"] = "Notion",
   ["5"] = "iTerm", 
-  ["6"] = "Visual Studio Code"
+  ["6"] = "Figma"
 }
 
 -- Bind each shortcut
