@@ -6,9 +6,10 @@ local appShortcuts = {
   ["1"] = "Zed",
   ["2"] = "Google Chrome",
   ["3"] = "Slack",
-  ["4"] = "Notion",
-  ["5"] = "iTerm", 
-  ["6"] = "Figma"
+  ["4"] = "Claude",
+  ["5"] = "iTerm",
+  ["6"] = "Figma",
+  ["7"] = "Notion"
 }
 
 -- Bind each shortcut
